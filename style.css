@@ -1,0 +1,38 @@
+.bg-img {
+  background-image: linear-gradient(to right, rgba(51, 196, 204), rgba(242, 162, 234));
+}
+h3 {
+  color:RGB(252, 15, 98);
+}
+
+.colors {
+     color:black;
+}
+.purple {
+     color:grey;
+     font-weight: bold;
+}
+h4 {
+  color:pink);
+   text-align: center;
+}
+.bg-img2 {
+  background-image: linear-gradient(to right, rgba(242, 162, 234), rgba(230, 109, 10, 0.83));
+}
+li:hover {
+  background: #03acf0;
+      opacity: 0.9;
+}
+body {
+  margin-right: 80px;
+  margin-left: 80px;
+}
+
+.col-md-3 {
+  width:60%;
+  margin: auto;
+}
+
+.bg-img3 {
+  background-image: linear-gradient(to right, rgba(245, 150, 145, 0.8), rgba(51, 202, 184, 0.8));
+}
